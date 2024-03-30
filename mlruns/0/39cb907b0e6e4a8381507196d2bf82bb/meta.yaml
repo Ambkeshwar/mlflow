@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/MyData/mlflow/mlruns/0/39cb907b0e6e4a8381507196d2bf82bb/artifacts
+end_time: 1711785361471
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 39cb907b0e6e4a8381507196d2bf82bb
+run_name: selective-yak-714
+run_uuid: 39cb907b0e6e4a8381507196d2bf82bb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711785361390
+status: 3
+tags: []
+user_id: hp

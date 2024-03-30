@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/MyData/mlflow/mlruns/0/a3dc669fb2da4a748ef8dad93f541c30/artifacts
+end_time: 1711785398891
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a3dc669fb2da4a748ef8dad93f541c30
+run_name: stately-trout-19
+run_uuid: a3dc669fb2da4a748ef8dad93f541c30
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711785398828
+status: 3
+tags: []
+user_id: hp
